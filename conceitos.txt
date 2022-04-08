@@ -1,0 +1,7 @@
+SHA1 > É um algoritimo de criptografia. Conjunto de funções hash projetadas pela NSA.
+
+BLOB > É um objeto que encapsula comportamento de diretórios.
+
+Commit > objeto que vai juntar tudo, dar sentido para alteração que está sendo feita. com Data, Hora...
+
+Chave SSH > Estabelece uma conexão segura entre duas Maquinas.
